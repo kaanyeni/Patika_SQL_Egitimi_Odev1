@@ -1,6 +1,6 @@
 # Patika_SQL_Egitimi_Odev1
 1. Soru 1
-'select title,description from film'
++ 'select title,description from film'
 --Soru 2
 select * from film where length >60 and length <75
 --soru3
